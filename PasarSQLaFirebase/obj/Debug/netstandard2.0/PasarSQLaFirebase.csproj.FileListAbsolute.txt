@@ -1,0 +1,15 @@
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.csproj.AssemblyReference.cache
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\bin\Debug\netstandard2.0\PasarSQLaFirebase.deps.json
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\bin\Debug\netstandard2.0\PasarSQLaFirebase.dll
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\bin\Debug\netstandard2.0\ref\PasarSQLaFirebase.dll
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\bin\Debug\netstandard2.0\PasarSQLaFirebase.pdb
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\Vistas\Usuarios.xaml.g.cs
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.AssemblyInfoInputs.cache
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.AssemblyInfo.cs
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.csproj.CoreCompileInputs.cache
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.dll
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\ref\PasarSQLaFirebase.dll
+C:\Cursos\CursoXamarin\PasarSQLaFirebase\PasarSQLaFirebase\obj\Debug\netstandard2.0\PasarSQLaFirebase.pdb

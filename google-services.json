@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259071752087",
+    "project_id": "usuarios-5dfcb",
+    "storage_bucket": "usuarios-5dfcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259071752087:android:cb4a1ca0670a76706bb6d2",
+        "android_client_info": {
+          "package_name": "com.companyname.pasarsqlafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259071752087-s949mr03ph4ql5qpoe9ebq3s42bh2aai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgst7vsRfQed8e7WyKotBmxTNQ7A_2Pe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259071752087-s949mr03ph4ql5qpoe9ebq3s42bh2aai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
